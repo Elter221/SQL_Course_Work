@@ -1,0 +1,19 @@
+Customer,Email,Order Repair Date,Repair Price,Status,Chosen Repairs,Repair start
+John Pork,john.doe@email.com,12/7/2022 12:00:00,75,Awaits,Charging Port Repair,12/8/2022 15:41:00
+Sarah Lee,sarah.lee@email.com,1/15/2023 13:00:00,110,In work,"Screen Repair, Battery Fix",1/16/2023 17:21:00
+Michael Smith,michael.smith@email.com,4/10/2021 11:00:00,540,Awaits,"Lens Fix, Shutter Repair, Charging Port Repair",4/11/2021 15:55:00
+Emily Johnson,emily.johnson@email.com,6/14/2021 14:00:00,300,Awaits,"Keyboard Replacement, Camera Repair",6/15/2021 15:24:00
+Brian Davis,brian.davis@email.com,9/10/2020 17:00:00,200,Awaits,"Battery Replacement, Screen Repair",9/11/2020 15:55:01
+Olivia White,olivia.white@email.com,3/12/2022 12:00:00,75,Awaits,Charging Port Repair,3/13/2022 15:41:00
+Brian White,brian.white@email.com,7/20/2023 13:00:00,110,In work,"Screen Repair, Battery Fix, Camera Repair",7/21/2023 17:21:00
+Alice Cooper,alice.cooper@email.com,5/1/2022 10:00:00,220,In work,"Lens Fix, Battery Replacement",5/2/2022 11:15:00
+James Turner,james.turner@email.com,8/25/2019 14:00:00,275,Done,"Keyboard Replacement, OS Update, Battery Fix",8/26/2019 11:40:00
+Charlotte King,charlotte.king@email.com,2/14/2020 16:00:00,180,Done,"Camera Repair, Shutter Repair",2/15/2020 10:40:00
+David Lee,david.lee@email.com,11/12/2020 11:00:00,220,Awaits,"Lens Fix, Screen Repair",11/13/2020 15:55:00
+Lisa Kim,lisa.kim@email.com,4/22/2021 12:00:00,150,In work,"Keyboard Replacement, Battery Fix",4/23/2021 11:15:00
+Robert Brown,robert.brown@email.com,6/19/2021 10:00:00,220,Awaits,"Screen Repair, Camera Repair",6/20/2021 11:05:00
+Nancy White,nancy.white@email.com,7/13/2022 13:00:00,150,Awaits,"Lens Fix, Keyboard Replacement",7/14/2022 11:30:00
+Steven Adams,steven.adams@email.com,10/2/2020 14:00:00,240,In work,"Shutter Repair, Battery Fix",10/3/2020 11:30:00
+Jason Clark,jason.clark@email.com,5/15/2022 10:00:00,220,Awaits,"Screen Repair, Battery Replacement",5/16/2022 12:00:00
+Kimberly Adams,kimberly.adams@email.com,2/1/2023 13:00:00,300,In work,"Camera Repair, Lens Fix",2/2/2023 15:55:00
+Thomas Hall,thomas.hall@email.com,11/22/2019 11:00:00,400,Awaits,"Keyboard Replacement, Shutter Repair",11/23/2019 12:30:00
