@@ -7,7 +7,7 @@
 ## Шаг 1: Создание и наполнение базы OLTP
 
 1.  Откройте файл `OLTP.sql` и запустите скрипт изображенный на фото:
-    ![image](https://github.com/user-attachments/assets/d2405395-a8ef-4fd4-9c65-ba8bf9ad31ed)
+    ![image](https://github.com/user-attachments/assets/0e1b17ef-98c2-48de-9c3f-45118e135ded)
 
     После чего нужно сменить connection на oltp_db.
 
@@ -15,7 +15,7 @@
 
     Должна создасться база изображенная ниже.
     
-    ![image](https://github.com/user-attachments/assets/9d5f05be-07ef-4148-b8f0-e81dba691825)
+    ![image](https://github.com/user-attachments/assets/72c649d5-0820-4fae-885d-bda9fa747563)
     [Link to diagram](https://drawsql.app/teams/-1066/diagrams/oltp-cw)
 
 
@@ -32,14 +32,14 @@
 ## Шаг 2: Создание базы OLAP
 
 1.  Откройте файл `OLAP.sql` и запустите скрипт изображенный на фото:
-    ![image](https://github.com/user-attachments/assets/bf02cf0a-e14f-41a1-8069-5b5015cb25a1)
+    ![image](https://github.com/user-attachments/assets/1956fc83-4536-4f61-8951-834c362c4b71)
 
     После чего нужно сменить connection на olap_db.
 
 2.  Запустите скрипт `OLAP.sql`.
 
     Должна создасться база изображенная ниже.
-    ![image](https://github.com/user-attachments/assets/de6ac265-4523-4bf9-aa21-d7318b879444)
+    ![image](https://github.com/user-attachments/assets/5451f5e9-eeba-498f-aced-260c203936f5)
     [Link to diagram](https://drawsql.app/teams/-1066/diagrams/olap-cw)
 
 
